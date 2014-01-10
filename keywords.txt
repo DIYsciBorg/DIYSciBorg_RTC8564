@@ -1,0 +1,31 @@
+#######################################################
+#  keywords.txt - keywords file for the RTC8564 Library
+
+#  Created by Emery Premeaux of DIY-SciB.org
+
+#  Released as MIT license
+
+#######################################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RTC	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setTime	KEYWORD2
+getTime	KEYWORD2
+startTimer	KEYWORD2
+setAlarm	KEYWORD2
+start	KEYWORD2
+stop	KEYWORD2
+reset	KEYWORD2
+isRunning	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

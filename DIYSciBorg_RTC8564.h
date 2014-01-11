@@ -1,3 +1,15 @@
+/* RTC8564 library
+	Written by Emery Premeaux
+	www.DIYSciB.org
+	
+	This project is open source
+      Feel free to use, modify or redistribute
+      It would be nice if you keep the original
+      author information above.  ;)
+      
+      Written on Arduino v 1.0.4
+*/
+
 #ifndef DIYSciBorg_RTC8564_h
 #define DIYSciBorg_RTC8564_h
 

@@ -13,7 +13,6 @@
 #include "Arduino.h"
 #include "DIYSciBorg_RTC8564.h"
 #include  <Wire.h>
-#include <WConstants.h>
 
 extern "C" {
   #include <stdlib.h>

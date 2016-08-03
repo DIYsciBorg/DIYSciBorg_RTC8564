@@ -10,10 +10,16 @@
       Written on Arduino v 1.0.4
 */
 
+#if ARDUINO >= 100
+ #include "Arduino.h"
+#else
+ #include "WProgram.h"
+#endif
+
+
 #ifndef DIYSciBorg_RTC8564_h
 #define DIYSciBorg_RTC8564_h
 
-#include "Arduino.h"
 //#include "DIYSciBorg_RTC8564.cpp"
 
 class RTC
